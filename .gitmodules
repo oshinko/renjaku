@@ -1,0 +1,6 @@
+[submodule "www.renjaku.co.jp"]
+	path = www.renjaku.co.jp
+	url = https://github.com/oshinko/www.renjaku.co.jp.git
+[submodule "shareholders"]
+	path = shareholders
+	url = https://github.com/oshinko/renjaku-shareholders.git
