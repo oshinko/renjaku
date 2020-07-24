@@ -4,3 +4,6 @@
 [submodule "shareholders"]
 	path = shareholders
 	url = https://github.com/oshinko/renjaku-shareholders.git
+[submodule "bizcards"]
+	path = bizcards
+	url = https://github.com/oshinko/renjaku-bizcards.git
