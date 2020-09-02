@@ -7,3 +7,6 @@
 [submodule "bizcards"]
 	path = bizcards
 	url = https://github.com/oshinko/renjaku-bizcards.git
+[submodule "renjaku.jp"]
+	path = renjaku.jp
+	url = https://github.com/oshinko/renjaku.jp.git
